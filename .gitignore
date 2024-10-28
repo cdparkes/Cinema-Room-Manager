@@ -1,0 +1,24 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Cinema Room Manager/*
+!/Cinema Room Manager/task/
+/Cinema Room Manager/task/*
+!/Cinema Room Manager/task/src
+
+# Project exclude paths
+/Topics/NullPointerException/Print string multiple times based on input/out/
+/Topics/NullPointerException/Print string multiple times based on input/out/production/classes/
+/Topics/NullPointerException/Return empty string when argument is null/out/
+/Topics/NullPointerException/Return empty string when argument is null/out/production/classes/
+/Topics/NullPointerException/Unknown input/out/
+/Topics/NullPointerException/Unknown input/out/production/classes/
